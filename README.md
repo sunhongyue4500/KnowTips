@@ -1,2 +1,2 @@
 # KnowTips
-card of tips.
+card of tips
